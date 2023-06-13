@@ -1,0 +1,8 @@
+.u-section-1 .u-sheet-1 {min-height: 619px}
+.u-section-1 .u-btn-1 {background-image: none; border-style: solid; box-shadow: 2px -2px 8px 0 rgba(128,128,128,1); font-weight: 700; margin: 172px auto 0 -24px; padding: 10px 59px}
+.u-section-1 .u-btn-2 {background-image: none; border-style: solid; font-size: 1.25rem; font-family: "Alfa Slab One"; margin: 8px 30px 0 auto; padding: 39px 145px 40px}
+.u-section-1 .u-btn-3 {background-image: none; border-style: solid; box-shadow: 2px -2px 8px 0 rgba(128,128,128,1); font-weight: 700; width: 279px; height: 49px; margin: -82px auto 0 -24px; padding: 10px 59px}
+.u-section-1 .u-btn-4 {background-image: none; border-style: solid; box-shadow: 2px -2px 8px 0 rgba(128,128,128,1); font-weight: 700; width: 279px; height: 49px; margin: 30px auto 60px -24px; padding: 10px 59px} 
+
+@media (max-width: 1199px){ .u-section-1 .u-btn-1 {margin-left: 0}
+.u-section-1 .u-btn-2 {margin-right: 0; font-weight: normal} }
